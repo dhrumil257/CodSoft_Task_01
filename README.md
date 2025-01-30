@@ -32,4 +32,4 @@ Ticket - Ticket number
 Fare - Amount paid for the ticket
 Cabin - Cabin of residence
 Embarked - Point of embarkment
-# Conclusion: 
+
